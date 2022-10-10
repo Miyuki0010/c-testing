@@ -24,4 +24,6 @@ int main(){
 
     cout << "You have to bake " << count << " trays \n";
     cout << "You will have " << own_muffins << " Muffins for free use \n";
+    
+    return 0;
 }
