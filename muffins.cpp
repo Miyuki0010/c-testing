@@ -5,8 +5,8 @@
     var people cli input
 
     var muffins = people * 2
-    var counts = muffins mod 12
-    var own muffins = (anzahl * 12) - muffins
+    var count = muffins mod 12
+    var own muffins = (count * 12) - muffins
 */
 
 #include <iostream>
